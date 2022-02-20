@@ -9,6 +9,8 @@
     "require-dev": {
         "phpunit/phpunit": "^5.7|^6.0"
     },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "autoload": {
         "psr-4": {
             "Ccasanovas\\ApiGatewaySDK\\": "src"
