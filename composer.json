@@ -1,6 +1,7 @@
 {
     "name": "ccasanovas/cakeapigateway",
     "description": "ApiGatewaySDK plugin for CakePHP",
+    "version": "1.0.2",
     "type": "cakephp-plugin",
     "license": "MIT",
     "require": {
